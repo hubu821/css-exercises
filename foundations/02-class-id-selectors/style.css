@@ -1,0 +1,24 @@
+/* classes */
+
+.odd-classes {
+   background-color: rgb(244, 179, 189);
+   font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.adjust-font-size {
+font-size: 24px;
+
+}
+
+
+#second {
+   color: rgb(0, 0, 255);
+   font-size: 36px;
+}
+
+
+#fourth {
+   background-color: rgb(163, 229, 163);
+   font-weight: bold;
+}
